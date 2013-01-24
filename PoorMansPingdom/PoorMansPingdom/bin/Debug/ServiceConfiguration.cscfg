@@ -14,7 +14,7 @@
     <ConfigurationSettings>
       <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
       <!-- Storage account where our data will be stored. -->
-      <Setting name="StorageAccount" value="DefaultEndpointsProtocol=https;AccountName=storageanaldiagseasia;AccountKey=GgEHUGgU5BbtkMI+QytGB6eQPMZXs8GrX8vdQ5OsOetMGxiH3YdQonJFpbdUTURHsXp80a+N7hJaDI+yG1uANw==" />
+      <Setting name="StorageAccount" value="UseDevelopmentStorage=true" />
       <!-- Name of the table where master data will be stored. -->
       <Setting name="PingItemsTableName" value="PingItems" />
       <!-- Name of the table where we'll store the results. -->

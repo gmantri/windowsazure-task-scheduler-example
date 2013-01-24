@@ -1,4 +1,3 @@
-D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\obj\Debug\PoorMansPingdomWorkerRole.csprojResolveAssemblyReference.cache
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\bin\Debug\PoorMansPingdomWorkerRole.dll.config
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\bin\Debug\PoorMansPingdomWorkerRole.dll
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\bin\Debug\PoorMansPingdomWorkerRole.pdb
@@ -21,5 +20,6 @@ D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\bin\Debug\Microsoft.Window
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\bin\Debug\Quartz.pdb
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\bin\Debug\Quartz.xml
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\bin\Debug\System.Spatial.xml
+D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\obj\Debug\PoorMansPingdomWorkerRole.csprojResolveAssemblyReference.cache
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\obj\Debug\PoorMansPingdomWorkerRole.dll
 D:\Projects\PoorMansPingdom\PoorMansPingdomWorkerRole\obj\Debug\PoorMansPingdomWorkerRole.pdb

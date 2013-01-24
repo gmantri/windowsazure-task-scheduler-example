@@ -1,16 +1,2 @@
 D:\Projects\PoorMansPingdom\PoorMansPingdom\bin\Debug\ServiceConfiguration.cscfg
 D:\Projects\PoorMansPingdom\PoorMansPingdom\bin\Debug\ServiceDefinition.csdef
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Common.Logging.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Common.Logging.pdb
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Microsoft.Data.Edm.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Microsoft.Data.OData.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Microsoft.WindowsAzure.Configuration.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Microsoft.WindowsAzure.Diagnostics.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Microsoft.WindowsAzure.Storage.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Microsoft.WindowsAzure.StorageClient.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\PoorMansPingdomWorkerRole.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\PoorMansPingdomWorkerRole.dll.config
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\PoorMansPingdomWorkerRole.pdb
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Quartz.dll
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\Quartz.pdb
-D:\Projects\PoorMansPingdom\PoorMansPingdom\obj\Debug\PoorMansPingdomWorkerRole\System.Spatial.dll
