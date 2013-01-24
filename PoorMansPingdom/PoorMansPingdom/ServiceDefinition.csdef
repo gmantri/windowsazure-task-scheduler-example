@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="PoorMansPingdom" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition" schemaVersion="2012-10.1.8">
+  <WorkerRole name="PoorMansPingdomWorkerRole" vmsize="Small">
+    <Imports>
+      <Import moduleName="Diagnostics" />
+    </Imports>
+    <ConfigurationSettings>
+      <Setting name="StorageAccount" />
+      <Setting name="PingItemsTableName"/>
+      <Setting name="PingResultsTableName" />
+      <Setting name="BlobContainer" />
+      <Setting name="BlobToBeLeased" />
+      <Setting name="ProcessQueueName"/>
+      <Setting name="PingJobCronSchedule"/>
+    </ConfigurationSettings>
+  </WorkerRole>
+</ServiceDefinition>
